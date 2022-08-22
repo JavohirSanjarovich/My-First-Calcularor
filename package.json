@@ -1,5 +1,5 @@
 {
-  "name": "My First Calculator",
+  "name": "my-first-calculator",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
